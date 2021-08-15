@@ -1,4 +1,4 @@
-![](https://github.com/NakashiUGS/lvm_graphic/blob/main/lvm_graphic.png)
+![](https://github.com/NakashiUGS/lvm_graphic/blob/main/lvm_graphic_3840x2160.png)
 
 ## Creative Commons License
 
